@@ -1,0 +1,13 @@
+{
+  "name": "TypeChain",
+  "version": "1.0.0",
+  "description": "Studying TypeScript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/Seongrak/TypeChain",
+  "author": "rocky <rock9247@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
